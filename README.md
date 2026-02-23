@@ -83,6 +83,3 @@ Artefact: `docs/dashboard.pdf`
 
 ---
 
-## Repository contents (recommended layout)
-
-> If you’re building this repo from your course ZIP: copy/rename the artefacts into the structure below.
