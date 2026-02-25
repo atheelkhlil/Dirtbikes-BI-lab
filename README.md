@@ -1,4 +1,4 @@
-# Dirtbikes-BI-lab
+
 # DirtBikes Sales Analytics — Data Warehouse, OLAP Cube & ETL (Mondrian + Pentaho PDI)
 
 A curated **BI/OLAP case study** that demonstrates the full flow from **data modeling → ETL → OLAP cube → MDX analysis/dashboard** using the “DirtBikes” sales domain.
@@ -75,11 +75,11 @@ Artefacts: `etl/jobs/*.kjb` and `etl/transformations/*.ktr`
 
 ---
 
-### 4) MDX analysis + dashboard output
-MDX queries and a dashboard-style output document.
+### 4) dashboard output
+dashboard-style output document.
 
-Artefact: `docs/dashboard.pdf`  
-(If you want: I can also add `mdx_examples.md` with selected MDX snippets + explanations.)
+Artefact: `schema & Dashboard/dashboard.pdf`  
+
 
 ---
 
